@@ -1,6 +1,5 @@
 
-# NOTES ON INTRODUCTION TO PROBILITY
-***
+# NOTES ON INTRODUCTION TO PROBABILITY
 
 Welcome to the series of Jupyter notebooks on my journey through the book developed from Harvard's stats 110 lectures.
 
