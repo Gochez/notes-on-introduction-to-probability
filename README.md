@@ -9,8 +9,8 @@ Welcome to the series of Jupyter notebooks on my journey through the book develo
 
 Some of the things I'll be covering:
 * Solutions to exercises.
-* Simulations translated into Python.
-* Stat110 class notes.
+* Simulations translated from R into Python.
+* Notes from Stat110 2011 class.
 
 
 ---
